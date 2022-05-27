@@ -1,0 +1,1 @@
+A Game Of Life implementation in C making use of multithreading.
